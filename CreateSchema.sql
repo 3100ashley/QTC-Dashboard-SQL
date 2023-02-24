@@ -1,5 +1,7 @@
-USE [Dashboard]
+USE [QTC-Dashboard]
+/* database name */ 
 GO
 
 	CREATE SCHEMA [Dashboard] AUTHORIZATION [dbo]
-GO
+    /* schema name */ 
+GO 
